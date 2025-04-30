@@ -46,7 +46,7 @@ header .logo a {
   color: #766457;
   text-decoration: none;
   font-weight: 700;
-  cursor: pointer;
+  cursor: none;
 }
 
 /* Desktop Navigation */
@@ -196,7 +196,7 @@ nav ul li a:hover {
   .mobile-header .menu-icon img {
     width: 32px;
     height: 32px;
-    cursor: pointer;
+    cursor: none;
   }
 
   /* Mobile Navigation */
@@ -285,7 +285,7 @@ nav ul li a:hover {
   .mobile-header .menu-icon img {
     width: 32px;
     height: 32px;
-    cursor: pointer;
+    cursor: none;
   }
 
   /* Mobile Navigation */
