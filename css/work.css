@@ -149,6 +149,10 @@
 
 /* Responsive layout for tablets */
 @media (max-width: 768px) {
+  #works {
+    padding: 2rem 2rem;
+  }
+
   .scrollable-gallery {
     grid-template-columns: 1fr;
     /* width: 100%; */
@@ -168,5 +172,12 @@
     width: 100vw;
     max-height: 100%;
     max-width: 100%;
+  }
+}
+
+
+@media (max-width: 425px) {
+  #works {
+    padding :1rem 0rem;
   }
 }
